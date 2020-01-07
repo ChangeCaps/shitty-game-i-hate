@@ -4,6 +4,7 @@ function setup() {
   // put setup code here
 
   let y = vec.mul(vec_from_num(5));
+
 }
 
 function draw() {
